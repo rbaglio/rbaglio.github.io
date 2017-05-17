@@ -1,0 +1,32 @@
+body {
+    background-image: url(rowan.jpg);
+
+    font-family: 'Annie Use Your Telescope', cursive;
+}
+
+
+h1{
+	font-size:45px;
+}
+
+A{
+	font-size:24px;
+}
+
+
+h3{
+	font-size: 24px;
+}
+
+
+
+img{
+	display: block;
+}
+
+#rowan {
+	background: blue;
+}
+
+
+
